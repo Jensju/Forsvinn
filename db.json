@@ -1,0 +1,57 @@
+{
+  "menues": [
+    {
+      "id": 1,
+      "dish": "Pytt-i-panna",
+      "description": "Finskurna bitar av nöt- och fläskkött, tärnad potatis, lök serverad med stekt ägg och rödbetor.",
+      "price": 85
+    },
+    {
+      "id": 2,
+      "dish": "Pannbiff med löksås",
+      "description": "Pannbiff av nötkött serveras med kokt potatis, gräddig löksås och lingon",
+      "price": 95
+    },
+    {
+      "id": 3,
+      "dish": "Korvstroganoff",
+      "description": "Skuren falukrov i tomat- och basilikasås. Serveras med basmatiris",
+      "price": 75
+    },
+    {
+      "id": 6,
+      "dish": "Äppelpaj",
+      "description": "Smuldegspaj med äppelkompot av solmogna Ingrid Marie-äpplen. Serveras med vaniljsås",
+      "price": 35
+    },
+    {
+      "id": 7,
+      "dish": "Banana Split",
+      "description": "Italiensk gräddglass med chokladflan, nougatrippel, vispgrädde och banan.",
+      "price": 45
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "pvt23"
+    },
+    {
+      "id": 2,
+      "username": "Jens",
+      "password": "2024"
+    },
+    {
+      "id": 3,
+      "username": "Linus",
+      "password": "Lindroth"
+    }
+  ],
+  "access": [
+    {
+      "id": 1,
+      "exist": "false"
+    }
+  ]
+}

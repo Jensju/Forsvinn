@@ -1,2 +1,2 @@
 # Forsvinn
-Simpel examination schoolproject for javascript
+ Simple examinal js schoolproject
