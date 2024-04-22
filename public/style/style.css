@@ -14,7 +14,6 @@ h2,
 h3 {
   font-family: "Italianno", cursive;
   margin: 1em 0 -0.5em 0;
-  text-decoration: l;
 }
 
 h1 {
@@ -162,6 +161,11 @@ input {
 #price-style {
   font-weight: 600;
   margin-top: -10px;
+}
+
+.soldout {
+  text-decoration: line-through;
+  color:rgba(101, 84, 66, 0.549);
 }
 
 @media screen and (max-width: 550px) {
